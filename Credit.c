@@ -6,7 +6,6 @@
 int main (void)
 {
 	long credit_card_number = get_long("Number: ");
-	printf("%ld\n", credit_card_number);
 	int sum = 0;
 	int i = 0;
 	int digit = 0;
